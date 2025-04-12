@@ -1,9 +1,7 @@
 # Software developer
 
 ### Education
-Student at Qaiwan International University | First year student
-
-Qaiwan International University (QIU) | Bachelor's in Software Engineering 2028
+Student at Qaiwan International University | First year student| Qaiwan International University (QIU) | Bachelor's in Software Engineering 2028
 
 ### Work Experience 
 - N/A
