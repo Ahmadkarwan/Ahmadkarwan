@@ -10,7 +10,7 @@ Student at Qaiwan International University | First year student| Qaiwan Internat
 
 ***NimbusBox (Conceptual Cloud Service Platform):***
 
-*[March, 2025]-Present
+*[March, 2025]-Present*
 
 NimbusBox is a cloud-based file storage and sharing platform developed as part of a university project. It allows users to securely upload, manage, and share files through a clean and responsive web interface.
 
@@ -24,12 +24,12 @@ NimbusBox is a cloud-based file storage and sharing platform developed as part o
 
 -Responsive design for desktop and mobile
 
-### Languages
+### Languages:
 -English-Intermediate
 -Kurdish-Fluent/Native
 -Arabic-Beginner
 
-### Skills
+### Skills:
 *Design & Editing:*
 -Video Editing
 -Photo Editing
@@ -52,7 +52,7 @@ NimbusBox is a cloud-based file storage and sharing platform developed as part o
 -Basic Videography
 -Basic Photography
 
-### Courses
+### Courses:
 
 *TIS:*
 -Poster Assignment: Designed an informative poster on Machine Learning In Software Development.
