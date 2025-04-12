@@ -66,7 +66,7 @@ Designed a concept Website design for a cloud service platform called NimbusBox,
 - Group Presentation - International Anti-Corruption Laws and Their Effectiveness.
 This project explores the development, implementation, and real-world impact of international anti-corruption laws. I conceptualized and presented this research to examine how global legal frameworks—such as the United Nations Convention against Corruption (UNCAC) and OECD Anti-Bribery Convention—influence national policies, corporate behavior, and overall efforts to combat corruption.
 
-***Key Focus Areas:***
+Key Focus Areas:
 
 - Overview of major international anti-corruption treaties and organizations
 
@@ -76,6 +76,6 @@ This project explores the development, implementation, and real-world impact of 
 
 - Assessment of the effectiveness and limitations of current frameworks
 
-***Goal:***
+Goal:
 - To critically analyze the role of international law in promoting transparency, reducing corruption, and supporting good governance across borders.
 
