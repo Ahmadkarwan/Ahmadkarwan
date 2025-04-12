@@ -1,14 +1,14 @@
 # Software developer
 
-### Education
+### Education:
 Student at Qaiwan International University | First year student| Qaiwan International University (QIU) | Bachelor's in Software Engineering 2028
 
-### Work Experience 
+### Work Experience:
 - N/A
 
-  ### Projects
+  ### Projects:
 
-***NimbusBox (Conceptual Cloud Service Platform)***
+***NimbusBox (Conceptual Cloud Service Platform):***
 
 *[March, 2025]-Present
 
